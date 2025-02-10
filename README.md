@@ -6,6 +6,9 @@
 - ⚡ Fun fact: Overly enthusiastic BJJ practitioner 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjsmelodev&layout=compact)
+![Snake animation](https://raw.githubusercontent.com/pjsmelodev/pjsmelodev/main/dist/github-snake.svg)
+
+
 
 <!---
 pjsmelodev/pjsmelodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
