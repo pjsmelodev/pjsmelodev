@@ -5,7 +5,7 @@
 - 📫 How to reach me: pjsm.lesi@gmail.com, https://www.linkedin.com/in/pjsmelo/
 - ⚡ Fun fact: Overly enthusiastic BJJ practitioner 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pjsmelodev/pjsmelodev/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 pjsmelodev/pjsmelodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
