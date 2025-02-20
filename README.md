@@ -6,3 +6,4 @@
 - ⚡ Fun fact: Overly enthusiastic BJJ practitioner 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pjsmelodev&layout=compact&langs_count=6&theme=radical)
+
